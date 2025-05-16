@@ -99,7 +99,13 @@ nav a .btn {
 
 
 }
+.zoom{
+    transition: tranform 0.5s ease;
+}
 
+.zoom:hover{
+    transform: scale(0.8);
+}
 
 .listing h3 {
     margin: 1rem;
