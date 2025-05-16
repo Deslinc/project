@@ -10,7 +10,9 @@ body {
     background-color: white;
     color: black;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 header {
     background-color: white;
     color: black;
